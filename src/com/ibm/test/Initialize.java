@@ -11,7 +11,6 @@ import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 
-
 public class Initialize {
 
 	public static void main(String[] args) throws InterruptedException {
